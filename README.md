@@ -7,11 +7,11 @@ CURRENT FEATURES:
   
   2. Access existing account:
   
-      Deposit fund
-      Withdraw fund
-      Get remainder
-      Change password
-      Get statement
+      Deposit fund.
+      Withdraw fund.
+      Get remainder.
+      Change password.
+      Get statement.
     
 UPCOMINGs:
 
